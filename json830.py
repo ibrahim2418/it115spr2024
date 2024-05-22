@@ -25,3 +25,5 @@ with open('data2.json', 'w') as json_file:
     json.dump(loaded_data, json_file, indent=4)
 
 print('Data has been re-written to data2.json')
+
+# Anime
